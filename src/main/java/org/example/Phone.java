@@ -62,7 +62,6 @@ class Phone {
 
 
     void delete() {
-        int i=-1;
         if(ll.isEmpty())
         {
             l.info("Contacct is empty");
